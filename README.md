@@ -44,7 +44,7 @@ I'm a dedicated hosting support professional passionate about ensuring seamless 
 
 ### 📊 GitHub Stats
 
-![Sadiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Sadiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaelcustoms&show_icons=true&theme=dark)
 
 ### 🎯 Current Focus
 
